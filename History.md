@@ -1,4 +1,12 @@
 
+0.6.4 / 2014-06-20 
+==================
+
+ * added: Router#go(path)
+ * added: router#unbind()
+ * remove timeout before binding using pjax technique.
+ * single popstate binding for all routers
+
 0.6.3 - April 22, 2014
 ----------------------
 * fix `in` keyword for IE8
